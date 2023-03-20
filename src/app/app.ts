@@ -16,7 +16,7 @@ export class App implements AppModel {
     public searchForm: SearchForm;
     public filterForm: FilterProducts;
     public sortProducts: SortProducts;
-    public cart: Cart;
+    public cart: Cart<HTMLElement>;
     public favorite: Favorite;
 
     constructor() {
