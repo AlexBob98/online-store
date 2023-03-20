@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Stickersp - Online Store</title>
+    </head>
+    <body>
+        <div class="wrapper">
+            <!-- Header start -->
+            <header class="header container">
+                <nav class="header__nav">
+                    <div class="header__nav-logo">
+                        <a href="#"><h1>Stickersp - Online Store</h1></a>
+                        <p>Наклейки винил</p>
+                    </div>
+                    <div class="header__nav-menu menu-links">
+                        <ul class="header__nav-menu-list">
+                            <li>
+                                <a href="index.html" class="active">Главная</a>
+                            </li>
+                            <li>
+                                <a href="#popular">Стикеры</a>
+                            </li>
+                            <li>
+                                <a href="#contacts">Контакты</a>
+                            </li>
+                        </ul>
+                        <div class="header__nav-searchform">
+                            <form>
+                                <input
+                                    type="text"
+                                    id="inputSearch"
+                                    autocomplete="off"
+                                    autofocus
+                                    placeholder="Search.." />
+                                <div class="close-search"></div>
+                            </form>
+                            <div class="header__nav-search-icon">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </div>
+                        </div>
+                        <div class="header__nav-basket">
+                            <i class="fa-solid fa-basket-shopping"></i>
+                            <span class="header__nav-basket-number">0</span>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+            <!-- Header end -->
+            <!-- Section Hero -->
+            <section class="hero">
+                <div class="hero__container container">
+                    <div class="hero__logo-left"></div>
+                    <div class="hero__text-block">
+                        <div class="hero__text-title"><h2>Stickersp</h2></div>
+                        <div class="hero__text-description">
+                            <p>Stickers for auto</p>
+                        </div>
+                        <a href="#popular" class="btn btn-white btn-animate">Store</a>
+                    </div>
+                    <div class="hero__logo-right"></div>
+                </div>
+            </section>
+            <!-- End Section Hero -->
+            <!-- Start Main -->
+            <main>
+                <!-- Start Section Popular Stickers -->
+                <section class="popular-stickers container">
+                    <div class="popular-stickers__title"><h2>Popular Stickers</h2></div>
+                    <div class="popular-stickers-main">
+                        <div class="popular-stickers-box">
+                            <div class="popular-stickers__image-block">
+                                <div class="popular-stickers-main-image">
+                                    <div class="popular-stickers__description"><p>Drift Stickers</p></div>
+                                    <div class="popular-stickers__text">
+                                        <a href="#popular"><span>Catalog</span></a>
+                                    </div>
+                                    <img
+                                        class="drift"
+                                        src="https://stickersp.ru/images/4c4e046b59d068de2ca997f24709e058-e1614618969518.jpg"
+                                        alt="drift" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="popular-stickers-box">
+                            <div class="popular-stickers__image-block">
+                                <div class="popular-stickers-main-image">
+                                    <div class="popular-stickers__description"><p>Stance Stickers</p></div>
+                                    <div class="popular-stickers__text">
+                                        <a href="#popular"><span>Catalog</span></a>
+                                    </div>
+                                    <img
+                                        class="stance"
+                                        src="https://stickersp.ru/images/95db519s-960-e1614619125725.jpg"
+                                        alt="stance" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="popular-stickers-box">
+                            <div class="popular-stickers__image-block">
+                                <div class="popular-stickers-main-image">
+                                    <div class="popular-stickers__description"><p>JDM Stickers</p></div>
+                                    <div class="popular-stickers__text">
+                                        <a href="#popular"><span>Catalog</span></a>
+                                    </div>
+                                    <img
+                                        class="jdm"
+                                        src="https://stickersp.ru/images/0e302925daa50f1d6d1b20ff241273e8-e1614618988621.jpg"
+                                        alt="jdm" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- End Section Popular Stickers -->
+                <!-- Start Filter and Products  -->
+                <section id="popular" class="filter-products container">
+                    <div class="filter-products__title"><h2>Catalog</h2></div>
+                    <!-- Filter -->
+                    <div class="filter-products__sort-container">
+                        <div id="sort" class="filter-products__sort">
+                            <div class="sort a-z"><i data-sort="sort-a" class="fa-solid fa-arrow-down-a-z"></i></div>
+                            <div class="sort z-a"><i data-sort="sort-z" class="fa-solid fa-arrow-down-z-a"></i></div>
+                            <div class="sort numberup">
+                                <i data-sort="sort-one" class="fa-solid fa-arrow-down-1-9"></i>
+                            </div>
+                            <div class="sort numberdown">
+                                <i data-sort="sort-nine" class="fa-solid fa-arrow-down-9-1"></i>
+                            </div>
+                            <div class="sort favourite"><i data-sort="sort-wish" class="fa-regular fa-heart"></i></div>
+                        </div>
+                    </div>
+                    <div class="filter-products-main">
+                        <div class="filter-products-filter">
+                            <div class="filter-products-sticky" id="filters">
+                                <div class="filter-products-filter-category">
+                                    <h3>Category</h3>
+                                    <div class="filter-products__select" id="category">
+                                        <div class="filter-products__all filter-btn">All</div>
+                                        <div class="filter-products__drift filter-btn">Drift Stickers</div>
+                                        <div class="filter-products__jdm filter-btn">JDM Stickers</div>
+                                        <div class="filter-products__stance filter-btn">Stance Stickers</div>
+                                    </div>
+                                </div>
+
+                                <div class="filter-products__size">
+                                    <h3>Size</h3>
+                                    <div class="filter-products__id" id="size">
+                                        <label
+                                            ><input
+                                                type="checkbox"
+                                                data-size="small"
+                                                class="btn-size"
+                                                value="S" />S</label
+                                        ><br />
+                                        <label
+                                            ><input
+                                                type="checkbox"
+                                                data-size="medium"
+                                                class="btn-size"
+                                                value="M" />M</label
+                                        ><br />
+                                        <label
+                                            ><input
+                                                type="checkbox"
+                                                data-size="large"
+                                                class="btn-size"
+                                                value="L" />L</label
+                                        ><br />
+                                    </div>
+                                </div>
+
+                                <div class="filter-products__price">
+                                    <h3>Price</h3>
+                                    <div class="filter-products__price-field">
+                                        <input
+                                            class="price-filter-min"
+                                            data-range="min"
+                                            type="range"
+                                            min="0"
+                                            max="100"
+                                            step="5"
+                                            value="0"
+                                            id="lower" />
+                                        <input
+                                            class="price-filter-max"
+                                            data-range="max"
+                                            type="range"
+                                            min="0"
+                                            step="5"
+                                            value="100"
+                                            id="upper" />
+                                    </div>
+                                    <div class="price-wrap">
+                                        <span class="price-title">Price filter:</span>
+                                        <div class="price-wrap-1">
+                                            <div id="one">$</div>
+                                        </div>
+                                        <div class="price-wrap_line">-</div>
+                                        <div class="price-wrap-2">
+                                            <div id="two">$</div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="filter-products__color">
+                                    <h3>Color</h3>
+                                    <!-- Load Colors in filterPrice module -->
+                                    <div class="filter-products__btns" id="color"></div>
+                                    <!--  -->
+                                    <div class="reset-filter"><button class="reset">Reset</button></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End filter -->
+                        <!-- Profucts (Load From Module -> importProducts )-->
+                        <div class="filter-products-product"></div>
+                        <!-- End Products -->
+                    </div>
+                 
+                </section>
+                <!-- End Filter and Products -->
+                <section id="contacts" class="instagram-block container">
+                    <h2>Contacts</h2>
+                    <div class="instagram-block-main">
+                        <a class="subscribe" href="https://instagram.com/stickersp_ru" target="_blank">Subscribe My Instagram</a>
+                        <div class="image-block">
+                            <div class="insta-picture image-block-one"></div>
+                            <div class="insta-picture image-block-two"></div>
+                            <div class="insta-picture image-block-three"></div>
+                            <div class="insta-picture image-block-four"></div>
+                            <div class="insta-picture image-block-five"></div>
+                            <div class="insta-picture image-block-six"></div>
+
+                        </div>
+                    </div>
+                </section>
+            </main>
+              <!-- popup -->
+         <div class="backhpl">
+            <div class="helpcl"><span>
+                Cart is full!
+            </span></div>
+            </div>
+        <!-- popup -->
+            <!-- End Main -->
+            <!-- Footer -->
+            <footer id="contacts" class="footer container">
+                <div class="footer-marg">
+                    <div class="copyright_year">
+                        <span>©</span><span>2022</span
+                        ><a href="https://github.com/AlexBob98" target="_blank"><span>github</span></a>
+                    </div>
+                    <div class="stck"></div>
+                    <div class="rolling_scope">
+                        <a href="https://rs.school/" target="_blank"><div class="logo-rol"></div></a>
+                    </div>
+                </div>
+            </footer>
+            <!-- Footer -->
+        </div>
+         
+        <script src="https://kit.fontawesome.com/dfb62aa4ee.js" crossorigin="anonymous"></script>
+    </body>
+</html>

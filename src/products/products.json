@@ -1,0 +1,236 @@
+[
+  {
+      "name": "Akina SpeedStar",
+      "img": "https://stickersp.ru/images/akina-speedstars.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "drift",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s"],
+      "cost" : 50
+  },
+  {
+      "name": "Ok-Ok",
+      "img": "https://stickersp.ru/images/ok-ok.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "drift",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 60
+  },
+  {
+      "name": "Cone Killer",
+      "img": "https://stickersp.ru/images/cone-killer.png",
+      "color": ["white", "black"],
+      "category": "drift",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 45
+  },
+  {
+      "name": "Cool Hand",
+      "img": "https://stickersp.ru/images/cool-hand.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "drift",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 65
+  },
+  {
+      "name": "Drift For Life",
+      "img": "https://stickersp.ru/images/drift_for_life.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "drift",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 35
+  },
+  {
+      "name": "Drift ok!",
+      "img": "https://stickersp.ru/images/drift_ok.png",
+      "color": ["white", "black", "yellow", "red"],
+      "category": "drift",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 40
+  },
+  {
+      "name": "Night Kids",
+      "img": "https://stickersp.ru/images/night-kids.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "drift",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 60
+  },
+  {
+      "name": "Drift Machine",
+      "img": "https://stickersp.ru/images/drift-machine.png",
+      "color": ["white", "black", "yellow", "pink", "red"],
+      "category": "drift",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 40
+  },
+  {
+      "name": "Hard Tuned",
+      "img": "https://stickersp.ru/images/hard-runed.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "jdm",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 45
+  },
+  {
+      "name": "Touge Seekers",
+      "img": "https://stickersp.ru/images/tougeseekers.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "jdm",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 45
+  },
+  {
+      "name": "Origin Labo",
+      "img": "https://stickersp.ru/images/origin-lab.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "jdm",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 45
+  },
+  {
+      "name": "Osaka Racing",
+      "img": "https://stickersp.ru/images/osaka-racing-team.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "jdm",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 45
+  },
+  {
+      "name": "Bongo Cat",
+      "img": "https://stickersp.ru/images/bongo-cat.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "jdm",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 45
+  },
+  {
+      "name": "Jdm Plasters",
+      "img": "https://stickersp.ru/images/jdm-plasters.png",
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "jdm",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m"],
+      "cost" : 45
+  },
+  {
+      "name": "Japanese Nostalgic Car",
+      "img": "https://stickersp.ru/images/japanese-nostalgic-car.png",
+      "color" : ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "jdm",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "m", "l"],
+      "cost" : 100
+  },
+  {
+      "name": "JDM as Fuck",
+      "img": "https://stickersp.ru/images/jdm-as-fcuk.png" ,
+      "color": ["white", "black", "yellow", "green", "pink", "red"],
+      "category": "jdm",
+      "description": "Vinyl Stickers for auto",
+      "size": ["s", "l"],
+      "cost" : 25
+  },
+  {
+    "name": "Low Classic Car",
+    "img": "https://stickersp.ru/images/low-classic-car.png" ,
+    "color": ["white", "green", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "m", "l"],
+    "cost" : 20
+ },
+ {
+    "name": "No Fat Chicks",
+    "img": "https://stickersp.ru/images/no-fat-chicks-1.png" ,
+    "color": ["white", "black", "yellow", "green", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "l"],
+    "cost" : 30
+ },
+ {
+    "name": "Dope",
+    "img": "https://stickersp.ru/images/dope.png" ,
+    "color": ["white", "black", "yellow", "green", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "m", "l"],
+    "cost" : 35
+ },
+ {
+    "name": "LowFamily",
+    "img": "https://stickersp.ru/images/lowfamily.png" ,
+    "color": ["white", "black"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "m", "l"],
+    "cost" : 50
+ },
+ {
+    "name": "Stance CCCP",
+    "img": "https://stickersp.ru/images/stance-cccp.png" ,
+    "color": ["white", "green", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "m", "l"],
+    "cost" : 100
+ },
+ {
+    "name": "Panty dropper",
+    "img": "https://stickersp.ru/images/panty-dropper1.png" ,
+    "color": ["white", "black", "yellow", "green", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "m", "l"],
+    "cost" : 30
+ },
+ {
+    "name": "Why not stance?",
+    "img": "https://stickersp.ru/images/why-not-stance.png" ,
+    "color": ["white", "black", "yellow", "green", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "m", "l"],
+    "cost" : 25
+ },
+ {
+    "name": "Daily Draiven",
+    "img": "https://stickersp.ru/images/daily-driven.png" ,
+    "color": ["white", "black", "yellow", "green", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["m", "l"],
+    "cost" : 45
+ },
+ {
+    "name": "Flawless",
+    "img": "https://stickersp.ru/images/flawless.png" ,
+    "color": ["white", "black", "yellow", "green", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "m", "l"],
+    "cost" : 55
+ },
+ {
+    "name": "Oh Fuck",
+    "img": "https://stickersp.ru/images/oh-fuck.png" ,
+    "color": ["black", "yellow", "pink", "red"],
+    "category": "stance",
+    "description": "Vinyl Stickers for auto",
+    "size": ["s", "m", "l"],
+    "cost" : 40
+ }
+]
